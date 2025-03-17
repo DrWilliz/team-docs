@@ -1,0 +1,10 @@
+site_name: TeamDocumentation
+site_description: Documentation for our awesome team
+site_author: Billy
+theme:
+  name: dracula
+nav:
+  - Home: index.md
+  - About: about.md
+  - Guidelines: guidelines.md
+
